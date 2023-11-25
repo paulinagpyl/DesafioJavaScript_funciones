@@ -1,0 +1,17 @@
+div{
+    width: 200px;
+    height: 200px;
+    margin:2px;
+}
+#uno{
+    background-color: blue;
+}
+#dos{
+    background-color:red;
+}
+#tres{
+    background-color: green;
+}
+#cuatro{
+    background-color: yellow;
+}
